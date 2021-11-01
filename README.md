@@ -1,7 +1,7 @@
 # Freelancerin Finansal Yol Haritasi
-Upwork ve Fiverr uzerinden ihracat yapan Freelancer'in sirketlesme, tesvikler, parasini en uygun sekilde ulkemize getirme gibi konularda sorularina cevap bulabilecegi bir yol haritasi. [Birlikte Ihracat](https://birlikteihracat.com/) toplulugu katkilariyla baslamistir.
+Upwork ve Fiverr uzerinden ihracat yapan Freelancer'in sirketlesme, tesvikler, parasini en uygun sekilde ulkemize getirme gibi konularda sorularina cevap bulabilecegi bir yol haritasi. Daja once [Freelancer Guide](https://freelancer.guide/)'in bir parcasi idi. Artik acik kaynak kodlu ve herkesin katkisina acik. Ilk katkilar her zaman oldugu gibi [Birlikte Ihracat](https://birlikteihracat.com/) toplulugu katkilariyla baslamistir.
 
-Arkadaslar selamlar, musavir degilim ve bu konuda soz soyleme yetkisini sahip de degilim ama konustugum onca kisi ve musavirden sonra sirketleme icin asagidaki yol haritasinin hakkaniyetli oldugunu dusunuyorum. Bu sayfayi lutfen genel kultur aktarimi olarak alin ve lutfen karar vermeden once musavire danisarak ilerleyin.
+Burasi musavirlik destegi vermiyor. Bu sayfayi lutfen genel kultur aktarimi olarak alin ve lutfen karar vermeden once musavire danisarak ilerleyin.
 
 # Ozetin de ozeti
 Eger yanlis bir kisim gorduysen bana [Twitter](https://twitter.com/zekeriyamulbay)'dan ulas veya [Discord](https://www.birlikteihracat.com/)'dan direkt yaz. Gerekli oldugunda uzerinde degisiklikler yaparak ilerleriz:
@@ -25,6 +25,8 @@ Asagida bazi "ornek" gider kalemleri yer aliyor. Isinle alakali harcamalari gide
 * Sanal/fiziki ofis ucreti
 * Onceki doneme ait hicbir seyi gider olarak gosterme.
 
+![Giderler](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Giderler.png)
+
 # Genc Girisimci Destegi
 Genç girişimci hepimizin aklını karıştıran bir konu. Daha önce upworkten para çektim. Youtuber arkadaşa olan benimde başıma gelir mi? diye içinize dert edindiğinizi biliyorum. Yurtiçi varlık barışı ile şirketinizi açtıktan sonra önceden çektiğiniz gelirleri beyan edebiliyorsunuz. Kanun açık ve net bir şekilde herhangi bir incelemeye yapılmayacağını vergi ödemeyeceğinizi söylüyor. Bu durumda aklınızda oluşan ilk aydınlanma artık genç girişimci olabileceğiniz yönünde. Evet haklısınız genç girişimci için olan yolunuzu açmış oluyorsunuz. Ama bir yandan devlete şirket açmadan önce iş yaptım demiş oluyorsunuz. Bu yüzden genç girişimci istisnasından yararlansanız bile incelemeye girdiğinizde hakkınız elinizden alınabilir ve yararlandığınız miktar ile orantılı olarak ceza yiyebilirsiniz.
 
@@ -47,6 +49,8 @@ Sozlesmende baska bir sirket kurmani engelleyen bir madde var mi? Evet ise dilek
 
 Eger hali hazirda bir yerde calisiyorsan bagkur odemesi yapmana gerek yok diye hatirliyorum. Lakin lutfen maas aldigin yere azami ozen gostererek aldigin maasin hakkini vermeyi unutma. Amacimiz hakkimiz olan geliri kazanmak, kimseyi zor durumda birakmak degil.
 
+![Calisan olarka sirket acmak](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Calisan-olarak-sirket-acmak.png)
+
 # Sahis sirketin icin ofis secenekleri
 Onunce 3 secenek var. Kendi evinle ilerleyebilir, kiraci olarak ev sahibinde anlasabilir veya sanal/fiziki ofis ile anlasabilirsin.
 
@@ -61,12 +65,16 @@ Netten Brüte Kira Bedeli = 2000 / 0,8 = 2500 TL Stopaj Tutarı = 2500 x 0,2 = 5
 ## Sanal Ofis
 Sanal ofise yaptigin harcamalarin tamamini gider olarak gosterebiliyorsun. Ayrica bu ofislerin bir kismi her hafta belirli saatler arasinda fiziki olarak da calisma imkani sunuyor. Freelancerin en buyuk dertlerinden biri de sosyallesmek, digeri de evde verimli calisamamak. Bu 2 problemin cozumu de ara sira da olsa fiziki olarak ofislere gitmekten geciyor.
 
+![Ofis secenekleri](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Ofis-secenekleri.png)
+
 # Freelancer olarak hangi sirket turunu secmeliyim?
 Bu dokuman karsindaki butun secenekleri degil en elverisli birkac secenegi onune dokuyor. Bu secenekler tanidigim freelancer'larin cogunun gectigi yollar. Baska yollar var mi? Tabi ki var ama %10'luk dilime girdigi icin enerjimi buraya harcamayi tercih etmiyorum. Ornegin; anonim sirket konusunu hic acmayacagim. 🤷🏻‍♂️
 
 Sorularimiza baslayalim hadi. Ilk sorum; ortakli mi is yapmak istiyorsun? Cevabin evet ise diger sorum genc girisimci satlarini tasiyor musun? Buna da cevabin evet ise adi ortaklik degilse limited sirket acmani oneririm.
 
 Ortaksiz ilerleyeceksen her turlu sahis sirketi ile "baslamani" oneririm. Sonrasinda gelirine gore Limited'e rahatlikla gecebilirsin. Bu asamada vergi avantajindan cok kafani en az agritacak sirket turunu sec ki esas osaklanman gereken kisma yani freelancer olarak gelir urtemeye daha fazla enerji ayirabil.
+
+![Hangi sirket turu](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Sirket-turu.png)
 
 ## Acilis Sureleri
 Sirket acilis sureleri degiskenlik gosterse de kabaca asagidaki sureleri verebilirim:
@@ -133,6 +141,8 @@ Serbest meslek erbabi misin?
 * Evet → E-SMM'ye basvur → E-imza al → Makbuz kes
 * Hayir → E-faturaya basvur → Fatura kes (Sahis sirketi → E-imza, Diger sirket turleri → Mali muhur)
 
+![Nasil fatura kesmeli](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Nasil-fatura-kesmeli.png)
+
 ## Faturayi hangi ulkeye kesiyorsun?
 Freelancer platformlari uzerinden calisiyor olsaniz da paraniz yurt disindan gelse de eger is yaptiginiz son musteri Turkiye'de yerlesik ise faturayi + KDV ile kesmeniz gerekiyor. Stopaj da var ama gider gosterilebildigi icin hesaba katmaya gerek yok.
 
@@ -140,6 +150,8 @@ Yurt disi yerlesik musteriler icin stopaj da KDV'de yok.
 
 ## Faturayi kime kesmeliyiz?
 Business literatüründe platformlar çeşitli alt kollara ayrılır. Şu anki tartışmaya ilişkin en faydalı olabilecek alt kollar şu şekilde: - Marketplaces (e.g. AirBnB, Booking, Amazon, Udemy, E-Bay, Upwork, Fiverr, etc), - On-Demand Platforms (e.g. Uber, Glovo), - Classified Platforms (Craigslist, Letgo, etc) Classified Platforms --> Platformda ilan vermek için para ödersiniz. Value/Money transfer, platform DIŞINDA gerçekleşir. Upwork, transaction'ı kendi üzerinden geçirdiği için Classified değil. On-Demand Platforms --> Bu platform tipinde transaction, platform üzerinden geçer ve platform transaction üzerinden bir "take-rate" keser. Platform üzerinde kendi ürün/hizmetinizle bulunamazsınız; platformun belirlediği standartlara uymanız gerekir. Ek olarak; taşıdığınızı yolcuyu da bilmezsiniz; Uber kendi müşterisine taşıma hizmeti verirken sizi "outsource" olarak kullanmış olur. Bu durumda Uber sürücüsü olarak faturayı Uber'e kesersiniz. Marketplaces --> Bu platform tipinde transaction, platform üzerinden geçer ve platform transaction üzerinden bir "take-rate" keser. Platform üzerinde kendi ürün ve hizmetinizle bulunabilirsiniz. Platform size herhangi bir standardizasyon uygulamaz. Ek olarak; hizmet verdiğiniz şahıs ya da kurumu detaylı olarak tanırsınız. Platform, işin kaliteli olması durumunda ekstra ödül, kalitesiz olması durumunda ise cezaya katlanmaz (Ajans/Consulting modelinden farklar). Bu durumda ise Upwork/Fiverr, etc platformda hizmet veren kişi olarak faturayı, hizmet verdiğiniz müşteriye kesersiniz, platformun sizden aldığı "take-rate" miktarını da gider göstererek muhasebeleştirirsiniz.On-Demand ve Marketplace paltformlar birbirleriyle karıştırılması kolay olan iş modelleri. Aralarındaki en büyük fark; standardizasyon ve hizmet verdiğiniz müşteriyi tanıma/tanımama durumuFatura keserken, NOT alanına şu notları mutlaka ekliyorum: - Hizmet İhracatı kapsamında KDV oranı %0 olarak hesaplanmıştır - Upwork Invoice ID - Upwork Invoice file ID (pdf'in isminde yazan ID ile Invoice ID farklı oluyor -- aralarında genelde 2 fark oluyor) - Upwork Contract Number
+
+![Nasil fatura kesmeli](https://github.com/zekeriyamulbay/freelancerin-finansal-yol-haritasi/blob/main/Nasil-fatura-kesmeli-2.png)
 
 Banka transaction'ında parayı gönderen olarak Upwork yazabilir. Herhangi bir soru sorulması durumunda, bu geliri Upwork üzerinden, ilgili müşterilere faturaları keserek elde ettiğinizi ispat edebilirsiniz. Ek olarak; zaten para size gelirken Upwork'ten $1000 olarak yola çıksa bile sizin hesabınıza gelene kadar yolda kesintiler olacak. Bu durumda da zaten miktarda uyuşmazlık olacak. Buna karşılık; "para bana ulaşınca, ulaşan miktar kadar keseyim o halde" tezi ise, modern muhasebede takip edilen, 'Gelirin hak kazanıldığı zaman, giderin ise oluştuğu zaman muhasebeleştirilmesi gerekliliği' ilkesine ters düşecektir (Bknz. Accrual Accounting vs Cash-Based Accounting)
 

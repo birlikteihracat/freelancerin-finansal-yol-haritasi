@@ -1,10 +1,10 @@
-# Freelancerın Finansal Yol Harıtası
+# Freelancerın Finansal Yol Haritası
 Upwork ve Fiverr üzerinden ihracat yapan Freelancer'ın şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası. Daha önce [Freelancer Guide](https://freelancer.guide/)'ın bir parçası idi. Artık açık kaynak kodlu ve herkesin katkısına açık. İlk katkılar her zaman olduğu gibi [Birlikte İhracat](https://birlikteihracat.com/) topluluğu katkılarıyla başlamıştır.
 
 Burası müşavirlik desteği vermiyor. Bu sayfayı lütfen genel kültür aktarımı olarak alın ve lütfen karar vermeden once müşavire danışarak ilerleyin.
 
 # Özetin de özeti
-Eğer yanlıs bir kısım gördüysen bana [Twitter](https://twitter.com/zekeriyamulbay)'dan ulaş veya [Discord](https://www.birlikteihracat.com/)'dan direkt yaz. Gerekli olduğunda üzerinde değişiklikler yaparak ilerleriz:
+Eğer yanlış bir kısım gördüysen bana [Twitter](https://twitter.com/zekeriyamulbay)'dan ulaş veya [Discord](https://www.birlikteihracat.com/)'dan direkt yaz. Gerekli olduğunda üzerinde değişiklikler yaparak ilerleriz:
 * Freelancer platformlarına kayıt ol.
 * İlk işini almak için uğraş ve ilk işini al.
 * Paranı henüz çekme ve freelancerlığın sana uygun olup olmadığını anlamaya çalış.
@@ -30,7 +30,7 @@ Aşağıda bazı "örnek" gider kalemleri yer alıyor. İşinle alakalı harcama
 # Genç Girişimci Desteği
 Genç girişimci hepimizin aklını karıştıran bir konu. Daha önce Upworkten para çektim. Youtuber arkadaşa olan benimde başıma gelir mi? diye içinize dert edindiğinizi biliyorum. Yurtiçi varlık barışı ile şirketinizi açtıktan sonra önceden çektiğiniz gelirleri beyan edebiliyorsunuz. Kanun açık ve net bir şekilde herhangi bir incelemeye yapılmayacağını vergi ödemeyeceğinizi söylüyor. Bu durumda aklınızda oluşan ilk aydınlanma artık genç girişimci olabileceğiniz yönünde. Evet haklısınız genç girişimci için olan yolunuzu açmış oluyorsunuz. Ama bir yandan devlete şirket açmadan önce iş yaptım demiş oluyorsunuz. Bu yüzden genç girişimci istisnasından yararlansanız bile incelemeye girdiğinizde hakkınız elinizden alınabilir ve yararlandığınız miktar ile orantılı olarak ceza yiyebilirsiniz.
 
-Önceden getirdiğiniz gelirlerin vergilendirmeyeceği doğru. Fakat sektörel inceleme yapıldığında #upwork tagıyla sizin daha önce ne kadar gelir elde ettiğiniz bankalar tarafından alınabilir. Ben 300-400 dolarcık kazandım demeyin arkadaşlar, hali hazırda kurduğunuz şirket upwork üzerinden iş yapıyor olacak. Çok fazla açık var, etrafından dolanıp belki yararlanabilirsiniz. Fakat 5 yılın sonunda çok büyük bir problemle karşılaşma ihtimaliniz var. Bu riski alıp almamak tamamiyle sizin kararınız. Eğer yeni başladıysanız ve henüz para çekmediyseniz umut var. Bağkur ve %50 vergi indirimi ilk yılınız için ilaç gibi gelecektir. Dert edeceğiniz tek şey muhasebe ücreti olacaktır.
+Önceden getirdiğiniz gelirlerin vergilendirmeyeceği doğru. Fakat sektörel inceleme yapıldığında #upwork tagıyla sizin daha önce ne kadar gelir elde ettiğiniz bankalar tarafından alınabilir. Ben 300-400 dolarcık kazandım demeyin arkadaşlar, hali hazırda kurduğunuz şirket Upwork üzerinden iş yapıyor olacak. Çok fazla açık var, etrafından dolanıp belki yararlanabilirsiniz. Fakat 5 yılın sonunda çok büyük bir problemle karşılaşma ihtimaliniz var. Bu riski alıp almamak tamamiyle sizin kararınız. Eğer yeni başladıysanız ve henüz para çekmediyseniz umut var. Bağkur ve %50 vergi indirimi ilk yılınız için ilaç gibi gelecektir. Dert edeceğiniz tek şey muhasebe ücreti olacaktır.
 
 # Vergilendirme Özet
 * Yılın 185 günü nerede yaşıyorsan veya uyruğun neresi ise orada vergi veriyorsun - Paranın kaynağı neresi ise orada vergi verdin diyelim. Eğer, TR deki gelir oranı ile verdiğin vergi arasında fark var ise TR de farkı ödüyorsun. Yoksa ödemiyorsun. - Parayı y.dışında tutma ile TR ye getirme arasında bir fark yok. Neden yok? Çünkü, ülkelerin imzaladığı Ortak Bilgi Paylaşımı anlaşması çerçevesinde TR bu paralardan artık haberi var. Şu an ABD bu bilgi ağının dışında. Payoneer HQ USA' da, EU regülasyonuna da tabi olduğu için bilgiyi paylaşır veya talepte bulunan isteğe cevap verir.
@@ -67,7 +67,7 @@ Sanal ofise yaptığın harcamaların tamamını gider olarak gösterebiliyorsun
 
 ![Ofis seçenekleri](Ofis-secenekleri.png)
 
-# Freelançer olarak hangi şirket türünü seçmeliyim?
+# Freelancer olarak hangi şirket türünü seçmeliyim?
 Bu doküman karşındaki bütün seçenekleri değil en elverişli birkaç seçeneği önüne döküyor. Bu seçenekler tanıdığım freelancer'ların çoğunun geçtiği yollar. Başka yollar var mı? Tabi ki var ama %10'lük dilime girdiği için enerjimi buraya harcamayı tercih etmiyorum. Örneğin; anonim şirket konusunu hiç açmayacağım. 🤷🏻‍♂️
 
 Sorularımıza başlayalım hadi. İlk sorum; ortaklı mı iş yapmak istiyorsun? Cevabın evet ise diğer sorum genç girişimci satlarını taşıyor musun? Buna da cevabın evet ise adı ortaklık değilse limited şirket açmanı öneririm.

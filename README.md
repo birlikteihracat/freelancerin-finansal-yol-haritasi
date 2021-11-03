@@ -153,67 +153,67 @@ Business literatüründe platformlar çeşitli alt kollara ayrılır. Şu anki t
 
 ![Nasil fatura kesmeli](Nasil-fatura-kesmeli-2.png)
 
-Banka transaction'ında parayı gönderen olarak Upwork yazabilir. Herhangi bir soru sorulması durumunda, bu geliri Upwork üzerinden, ilgili müşterilere faturaları keserek elde ettiğinizi ispat edebilirsiniz. Ek olarak; zaten para size gelirken Upwork'ten $1000 olarak yola çıksa bile sizin hesabınıza gelene kadar yolda kesintiler olacak. Bu durumda da zaten miktarda uyuşmazlık olacak. Buna karşılık; "para bana ulaşınca, ulaşan miktar kadar keseyim o halde" tezi ise, modern muhasebede takip edilen, 'Gelirin hak kazanıldığı zaman, giderin ise oluştuğu zaman muhasebeleştirilmesi gerekliliği' ilkesine ters düşecektir (Bknz. Accrual Accounting vs Cash-Based Accounting)
+Banka transaction'ında parayı gönderen olarak Upwork yazabilir. Herhangi bir soru sorulması durumunda, bu geliri Upwork üzerinden, ilgili müşterilere faturaları keserek elde ettiğinizi ispat edebilirsiniz. Ek olarak; zaten para size gelirken Upwork'ten \$1000 olarak yola çıksa bile sizin hesabınıza gelene kadar yolda kesintiler olacak. Bu durumda da zaten miktarda uyuşmazlık olacak. Buna karşılık; "para bana ulaşınca, ulaşan miktar kadar keseyim o halde" tezi ise, modern muhasebede takip edilen, 'Gelirin hak kazanıldığı zaman, giderin ise oluştuğu zaman muhasebeleştirilmesi gerekliliği' ilkesine ters düşecektir (Bknz. Accrual Accounting vs Cash-Based Accounting)
 
 Tüm bunlar düşünüldüğünde; aslında takip edilmesi gereken usul oldukça net görülebiliyor: Faturayı müşteriye kes, upwork kesintisini ise gider olarak göster. Geliri de gideri de banka hesabına gelmesini beklemeden, oluştuğu tarihte muhasebeleştir.
 
 # Kazancinizi Turkiye'ye en az kesintiyle getirmek
-Payoneer aracılığıyla $ hesabına ve direct to local bank yöntemiyle TL hesabına aktarım arasındaki farkı gösteren bir hesaplama yaptım herkesin kafasında bir fikir oluşması için yardımcı olur umarım. (anlık kur -7.94- ve banka olarak enpara baz alındı.)
+Payoneer aracılığıyla \$ hesabına ve direct to local bank yöntemiyle TL hesabına aktarım arasındaki farkı gösteren bir hesaplama yaptım herkesin kafasında bir fikir oluşması için yardımcı olur umarım. (anlık kur -7.94- ve banka olarak enpara baz alındı.)
 
-$200.00 (1,588.00TL)için Payoneer ile $ hesabına;
-* 2$ Upwork kesiyor kaldı $198.00
-* $ hesabına aktarım için Payoneer %2 kesiyor kaldı $194.04 -194.04x7.94=1,540.68 TL
-* En para swift işlemi başına 20TL ücret alıyor. -Elimize geçen para net olarak 1,520.68 TL -Kesilen miktar $8.48 yani 67.32TL
+\$200.00 (1,588.00TL)için Payoneer ile \$ hesabına;
+* 2\$ Upwork kesiyor kaldı \$198.00
+* \$ hesabına aktarım için Payoneer %2 kesiyor kaldı \$194.04 -194.04x7.94=1,540.68 TL
+* En para swift işlemi başına 20TL ücret alıyor. -Elimize geçen para net olarak 1,520.68 TL -Kesilen miktar \$8.48 yani 67.32TL
 
-$200.00 (1,588.00TL)için direct to local bank ;
-* 0.99$ Upwork kesiyor kaldı $199.01
+\$200.00 (1,588.00TL)için direct to local bank ;
+* 0.99\$ Upwork kesiyor kaldı \$199.01
 * Upwork'ün belirlediği kur 7.70
 * Enpara bu yöntemde herhangi bir aktarım ücreti almıyor.
 * Elimize geçen para 199.01x7,70=1.532,38TL
-* Kesilen miktar $7.00 yani 55.62TL
+* Kesilen miktar \$7.00 yani 55.62TL
 
-$500.00 (3,970.00TL)için Payoneer ile $ hesabına;
-* 2$ Upwork kesiyor kaldı $498.00
-* $ hesabına aktarım için Payoneer %2 kesiyor kaldı $488.04
+\$500.00 (3,970.00TL)için Payoneer ile \$ hesabına;
+* 2\$ Upwork kesiyor kaldı \$498.00
+* \$ hesabına aktarım için Payoneer %2 kesiyor kaldı \$488.04
 * 488.04x7.94=3,875.04 TL
 * En para swift işlemi başına 20TL ücret alıyor.
 * Elimize geçen para net olarak 3,855.04 TL
-* Kesilen miktar $14.48 yani 114.96TL
+* Kesilen miktar \$14.48 yani 114.96TL
 
-$500.00 (3,970.00TL)için direct to local bank ;
-* 0.99$ Upwork kesiyor kaldı $499.01
+\$500.00 (3,970.00TL)için direct to local bank ;
+* 0.99\$ Upwork kesiyor kaldı \$499.01
 * Upwork'ün belirlediği kur 7.70
 * Enpara bu yöntemde herhangi bir aktarım ücreti almıyor.
 * Elimize geçen para 499.01x7,70=3,842,38TL
-* Kesilen miktar $16.07 yani 127.62TL
+* Kesilen miktar \$16.07 yani 127.62TL
 
-$1,000.00 (7,940.00TL)için Payoneer ile $ hesabına;
-* 2$ Upwork kesiyor kaldı $998.00
-* $ hesabına aktarım için Payoneer %2 kesiyor kaldı $978.04
+\$1,000.00 (7,940.00TL)için Payoneer ile \$ hesabına;
+* 2\$ Upwork kesiyor kaldı \$998.00
+* \$ hesabına aktarım için Payoneer %2 kesiyor kaldı \$978.04
 * 978.04x7.94=7,765.64 TL
 * En para swift işlemi başına 20TL ücret alıyor.
 * Elimize geçen para net olarak 7,755.64 TL
-* Kesilen miktar $23.22 yani 184.36TL
+* Kesilen miktar \$23.22 yani 184.36TL
 
-$1,000.00 (7,940.00TL)için direct to local bank ;
-* 0.99$ Upwork kesiyor kaldı $999.01
+\$1,000.00 (7,940.00TL)için direct to local bank ;
+* 0.99\$ Upwork kesiyor kaldı \$999.01
 * Upwork'ün belirlediği kur 7.70
 * Enpara bu yöntemde herhangi bir aktarım ücreti almıyor.
 * Elimize geçen para 999.01x7,70=7,692.38TL
-* Kesilen miktar $31.19 yani 247.62TL
+* Kesilen miktar \$31.19 yani 247.62TL
 
-$1,000.00 (7,940.00TL)için wire transfer yöntemi;
-* 30.00$ Upwork kesiyor kaldı $970.00
+\$1,000.00 (7,940.00TL)için wire transfer yöntemi;
+* 30.00\$ Upwork kesiyor kaldı \$970.00
 * 970.00x7,94=7,701.80TL
 * En para swift işlemi başına 20TL ücret alıyor.
 * Elimize geçen para net olarak 7,681.80 TL
-* Kesilen miktar $32.52 yani 258.20TL
+* Kesilen miktar \$32.52 yani 258.20TL
 
-Normal koşullarda direct to local bank yöntemiyle para 24 saat içinde hesaba geçiyor.(Benim genelde min 12 saat sürdü.) Payoneer yönteminde para çok kısa bir süre içinde Payoneer'a aktarılıyor. Payoneer'dan enpara $ hesabıma aktarmak da 1,5 saat sürdü.
+Normal koşullarda direct to local bank yöntemiyle para 24 saat içinde hesaba geçiyor.(Benim genelde min 12 saat sürdü.) Payoneer yönteminde para çok kısa bir süre içinde Payoneer'a aktarılıyor. Payoneer'dan enpara \$ hesabıma aktarmak da 1,5 saat sürdü.
 
 Wire transfer yöntemini hiç kullanmadım.
 
-Benim düşüncem düşük miktarlı işlemlerde direkt TL hesabına aktarmak daha mantıklı. +$500.00 olduğunda da Payoneer daha mantıklı. (tam kırılma noktasını hesaplayamadım malesef.)
+Benim düşüncem düşük miktarlı işlemlerde direkt TL hesabına aktarmak daha mantıklı. +\$500.00 olduğunda da Payoneer daha mantıklı. (tam kırılma noktasını hesaplayamadım malesef.)
 
 Yukaridaki mesaj icin Oguz'a tesekkur ederim.
 

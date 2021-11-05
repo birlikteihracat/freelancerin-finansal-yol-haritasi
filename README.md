@@ -3,6 +3,10 @@ Upwork ve Fiverr üzerinden ihracat yapan Freelancer'ın şirketleşme, teşvikl
 
 Burası müşavirlik desteği vermiyor. Bu sayfayı lütfen genel kültür aktarımı olarak alın ve lütfen karar vermeden once müşavire danışarak ilerleyin.
 
+Bu doküman, yurtdışına freelance çalışmak ve şahıs şirketi kurmak isteyenlere yönelik hazırlandı. Genel olarak masraflarım neler olacak, ne gibi desteklerden yararlanabilirim gibi sorulara cevap vermeye çalıştık. Aşağıda yer alan bilgiler Eylül 2021 tarihinde derlendi. Lütfen 100% doğru olarak kabul etmeyin ve kendi araştırmanızı yapın. Mali müşavirlere, bu alanda yetkinliği olan kişilere danışın. Aşağıda yer alan bilgiler internetten bulabildiğimiz detayların özeti şeklindedir.
+
+Şirket kurmak zor ve masraflı bir süreç gibi zannedilse de günümüzde hem çok daha kolay, hem de desteklerle ilk aşamada ciddi bir maliyetten kurtulabiliyorsunuz. Yararlanabileceğiniz ve sizi önemli bir masraftan kurtaran iki desteğin detaylarını aşağıda görebilirsiniz. Yaş veya başka bir sebepten dolayı Genç Girişimci Desteği'nden yararlanamıyor olsanız bile ihracat istisnasından yararlanabilirsiniz.
+
 # Özetin de özeti
 Eğer yanlış bir kısım gördüysen bana [Twitter](https://twitter.com/zekeriyamulbay)'dan ulaş veya [Discord](https://www.birlikteihracat.com/)'dan direkt yaz. Gerekli olduğunda üzerinde değişiklikler yaparak ilerleriz:
 * Freelancer platformlarına kayıt ol.
@@ -27,10 +31,27 @@ Aşağıda bazı "örnek" gider kalemleri yer alıyor. İşinle alakalı harcama
 
 ![Giderler](Giderler.png)
 
-# Genç Girişimci Desteği
+# Yararlanabileceğiniz Destekler
+## Genç Girişimci Desteği
 Genç girişimci hepimizin aklını karıştıran bir konu. Daha önce Upworkten para çektim. Youtuber arkadaşa olan benimde başıma gelir mi? diye içinize dert edindiğinizi biliyorum. Yurtiçi varlık barışı ile şirketinizi açtıktan sonra önceden çektiğiniz gelirleri beyan edebiliyorsunuz. Kanun açık ve net bir şekilde herhangi bir incelemeye yapılmayacağını vergi ödemeyeceğinizi söylüyor. Bu durumda aklınızda oluşan ilk aydınlanma artık genç girişimci olabileceğiniz yönünde. Evet haklısınız genç girişimci için olan yolunuzu açmış oluyorsunuz. Ama bir yandan devlete şirket açmadan önce iş yaptım demiş oluyorsunuz. Bu yüzden genç girişimci istisnasından yararlansanız bile incelemeye girdiğinizde hakkınız elinizden alınabilir ve yararlandığınız miktar ile orantılı olarak ceza yiyebilirsiniz.
 
-Önceden getirdiğiniz gelirlerin vergilendirmeyeceği doğru. Fakat sektörel inceleme yapıldığında #upwork tagıyla sizin daha önce ne kadar gelir elde ettiğiniz bankalar tarafından alınabilir. Ben 300-400 dolarcık kazandım demeyin arkadaşlar, hali hazırda kurduğunuz şirket Upwork üzerinden iş yapıyor olacak. Çok fazla açık var, etrafından dolanıp belki yararlanabilirsiniz. Fakat 5 yılın sonunda çok büyük bir problemle karşılaşma ihtimaliniz var. Bu riski alıp almamak tamamiyle sizin kararınız. Eğer yeni başladıysanız ve henüz para çekmediyseniz umut var. Bağkur ve %50 vergi indirimi ilk yılınız için ilaç gibi gelecektir. Dert edeceğiniz tek şey muhasebe ücreti olacaktır.
+**Destek Şartları**
+- Detaylarını internette birçok kaynakta da bulabilirsiniz fakat genel olarak (tüm şartları araştırın):
+    - 29 yaşını tamamlamamış olmak
+    - Daha önce şirket kurmuş olmamak diyebiliriz.
+
+**Destek detayları**
+- 3 mali yıl boyunca 75.000 TL'ye kadar gelir vergisinden muafsınız. Bunun tam olarak hesaba nasıl katıldığını aşağıdaki tablolarda görebilirsiniz.
+- İlk 12 ay Bağkur primi ödemiyorsunuz.  (1055,37 TL x 12 Ay = 12,664,32 TL cebinizde kalmış oluyor.)
+
+## İhracat Vergi İstisnası (Yazılım-Tasarım İhracatı)
+
+**Destek Şartları**
+- Belli alanlarda yurtdışına hizmet vermek.
+- Detaylar ile alakalı bulabildiğimiz en güncel bilgi bu linkte yer alıyor: https://www.resmigazete.gov.tr/eskiler/2012/06/20120615-1.htm
+
+> 13. Türkiye'de yerleşmiş olmayan kişilerle, işyeri, kanuni ve iş merkezi yurt dışında bulunanlara Türkiye’de verilen ve münhasıran yurt dışında yararlanılan **mimarlık, mühendislik, tasarım, yazılım, tıbbi raporlama, muhasebe kaydı tutma, çağrı merkezi ve veri saklama hizmeti** alanlarında faaliyette bulunan hizmet işletmeleri ile ilgili bakanlığın izni ve denetimine tabi olarak eğitim ve sağlık alanında faaliyet gösteren ve Türkiye’de yerleşmiş olmayan kişilere hizmet veren işletmelerin münhasıran bu faaliyetlerinden elde ettikleri kazancın %50’si. Bu indirimden yararlanılabilmesi için fatura veya benzeri belgenin yurt dışındaki müşteri adına düzenlenmesi şarttır. Bu bentte yer alan oranı, hizmet alanları itibarıyla sıfıra kadar indirmeye veya %100’e kadar artırmaya Bakanlar Kurulu, bu bendin uygulamasına ve denetime ilişkin usul ve esasları belirlemeye ilgili bakanlıkların görüşünü almak suretiyle Maliye Bakanlığı yetkilidir.
+
 
 # Vergilendirme Özet
 * Yılın 185 günü nerede yaşıyorsan veya uyruğun neresi ise orada vergi veriyorsun - Paranın kaynağı neresi ise orada vergi verdin diyelim. Eğer, TR deki gelir oranı ile verdiğin vergi arasında fark var ise TR de farkı ödüyorsun. Yoksa ödemiyorsun. - Parayı y.dışında tutma ile TR ye getirme arasında bir fark yok. Neden yok? Çünkü, ülkelerin imzaladığı Ortak Bilgi Paylaşımı anlaşması çerçevesinde TR bu paralardan artık haberi var. Şu an ABD bu bilgi ağının dışında. Payoneer HQ USA' da, EU regülasyonuna da tabi olduğu için bilgiyi paylaşır veya talepte bulunan isteğe cevap verir.
@@ -51,21 +72,6 @@ Eğer hali hazırda bir yerde çalışıyorsan bağkur ödemesi yapmana gerek yo
 
 ![Çalışan olarak şirket açmak](Calisan-olarak-sirket-acmak.png)
 
-# Şahıs şirketin için ofis seçenekleri
-Önünde 3 seçenek var. Kendi evinle ilerleyebilir, kiracı olarak ev sahibinle anlaşabilir veya sanal/fiziki ofis ile anlaşabilirsin.
-
-## Kendi evin var
-En güzel ve temiz seçenek kendi evini göstermek. Herhangi bir ek masraf çıkmıyor.
-
-## Kiracısın
-Eğer kiradaysan ilk yapman gereken ev sahibinle evin iş yeri adresi olarak kullanılmasını konuşmak. İzin vermesi durumunda yaptığınız sözleşmeyi güncellemeniz gerekebilir. Bu seçenekten ilerliyorsan atlamaman gereken konu stopaj ödemesi.
-
-Netten Brüte Kira Bedeli = 2000 / 0,8 = 2500 TL Stopaj Tutarı = 2500 x 0,2 = 500 TL
-
-## Sanal Ofis
-Sanal ofise yaptığın harcamaların tamamını gider olarak gösterebiliyorsun. Ayrıca bu ofislerin bir kısmı her hafta belirli saatler arasında fiziki olarak da çalışma imkanı sunuyor. Freelancerın en büyük dertlerinden biri de sosyalleşmek, diğeri de evde verimli çalışamamak. Bu 2 problemin çözümü de ara sıra da olsa fiziki olarak ofislere gitmekten geçiyor.
-
-![Ofis seçenekleri](Ofis-secenekleri.png)
 
 # Freelancer olarak hangi şirket türünü seçmeliyim?
 Bu doküman karşındaki bütün seçenekleri değil en elverişli birkaç seçeneği önüne döküyor. Bu seçenekler tanıdığım freelancer'ların çoğunun geçtiği yollar. Başka yollar var mı? Tabi ki var ama %10'lük dilime girdiği için enerjimi buraya harcamayı tercih etmiyorum. Örneğin; anonim şirket konusunu hiç açmayacağım. 🤷🏻‍♂️
@@ -81,13 +87,16 @@ Ortaksız ilerleyeceksen her türlü şahıs şirketi ile "başlamanı" öneriri
 Şahıs → 1+ gün
 Limited ve Anonim → 2+ hafta
 
-## Genç Girişimci Teşviği
-En basit haliyle aşağıda şartları sağlıyorsan bu teşvikten yararlanabilirsin:
-* 29 yaşını doldurmamış
-* Daha önce şahıs şirketi kurmamış
-* İşe başlamadan dolayı vergi cezası yemeyen
+# Şahıs Şirketinin Ana Masrafları
+- Kurulum masrafları
+- Mali Müşavir - muhasebe ücreti
+- Sanal ofis ücreti 
+    - Evinizi de ofis olarak gösterebiliyorsunuz fakat onun için kira sözleşmesinde belirtilmesi gerekiyor. Ayrıca tüm kiranızı gider olarak olarak gösteremiyorsunuz. Sanal ofis bu uğraşlardan kurtulmak için en verimli yol gibi gözüküyor.
+- Gelir vergisi
+- Damga vergileri
+- Bağkur
 
-# Şahıs şirket kurulum maliyeti
+## Şahıs şirket kurulum maliyeti
 Dokümandan anladığın üzere burun hesaplamaları "kabaca" sunuyorum. Maliyetleri de bu şekilde vereceğim. Doğal olarak herkesin kendi özel durumuna göre bu miktar artabilir (azalması zor).
 
 Eğer şahıs işletmesi kuruyorsanız ve genç girişimci desteğinden faydalanıyorsanız yıllık maliyetiniz yaklaşık 10bin TL civarında olacak. 1000 TL gibi bir kuruluş ücretinin yanında aylık 750TL'lık gideriniz olacak.
@@ -114,6 +123,113 @@ Aşağıdaki maliyetleri Discord içindeki bir mesajdan aldım. Birkaç ay önce
 * İmza beyannamesi(noterden)
 * İkametgah
 * Araç Alış Senedi ve Ruhsat (Varsa)
+
+### Kuruluş Masrafları, Mali Müşavirlik Hizmeti Almak ve Sanal Ofis
+
+Şahıs şirketi kurmak prosedür olarak kolay bir süreç olsa da Mali Müşavir bulup anlaşmak çevrenizde hiç tanıdığınız birisi yoksa uğraştırıcı olabilir. Bu noktada işlerinizi kolaylaştırabilecek bir firma olan mukellef.co'yu önerebiliriz. Doğrudan size yönlendirecekleri bir Mali Müşavir ile şirketinizi hızlıca kurabilirsiniz. 
+
+Mükellef Birlikte İhracat'ın partnerlerinden, Birlikte İhracat üyelerine özel 10% indirimleri de mevcut. İndirimden yaralanmak için Birlikte İhracat'a katılarak [Discord](https://www.birlikteihracat.com/) üzerinden bilgi alabilirsiniz.
+
+**Aylık Masraflar (İndirimsiz)**
+
+Firma | Hizmet | Aylık Tutar (KDV Dahil) | Yıllık Tutar (KDV Dahil)
+--- | --- | --- | ---
+Mukellef.co | Muhasebe + şirket kuruluşu | <center>295 TL</center> | <center>3,540 TL</center>
+Mukellef.co |Sanal Ofis | <center>152.22 TL</center> | <center>1,826.74 TL</center>
+**Toplam** | | <center>**447.22 TL**</center> | <center>**5,366.22 TL**</center>
+
+## Şahıs şirketin için ofis seçenekleri
+Önünde 3 seçenek var. Kendi evinle ilerleyebilir, kiracı olarak ev sahibinle anlaşabilir veya sanal/fiziki ofis ile anlaşabilirsin.
+
+**Kendi evin var**
+En güzel ve temiz seçenek kendi evini göstermek. Herhangi bir ek masraf çıkmıyor.
+
+**Kiracısın**
+Eğer kiradaysan ilk yapman gereken ev sahibinle evin iş yeri adresi olarak kullanılmasını konuşmak. İzin vermesi durumunda yaptığınız sözleşmeyi güncellemeniz gerekebilir. Bu seçenekten ilerliyorsan atlamaman gereken konu stopaj ödemesi.
+
+Netten Brüte Kira Bedeli = 2000 / 0,8 = 2500 TL Stopaj Tutarı = 2500 x 0,2 = 500 TL
+
+**Sanal Ofis**
+Sanal ofise yaptığın harcamaların tamamını gider olarak gösterebiliyorsun. Ayrıca bu ofislerin bir kısmı her hafta belirli saatler arasında fiziki olarak da çalışma imkanı sunuyor. Freelancerın en büyük dertlerinden biri de sosyalleşmek, diğeri de evde verimli çalışamamak. Bu 2 problemin çözümü de ara sıra da olsa fiziki olarak ofislere gitmekten geçiyor.
+
+![Ofis seçenekleri](Ofis-secenekleri.png)
+
+### Gelir Vergisi
+Gelir vergisi dilimlere göre farklı oranlarda hesaplanıyor. Hem ihracat istisnasından yararlanıp hem de genç girişimci olduğunuz zaman 150.000 TL kazancınıza (=gelir-gider) kadar ilk 3 yıl vergi ödemiyorsunuz. 
+
+Gelir vergisi dilimlere göre farklı oranlarda hesaplanıyor. Hem ihracat istisnasından yararlanıp hem de genç girişimci olduğunuz zaman 150.000 TL kazancınıza (=gelir-gider) kadar ilk 3 yıl vergi ödemiyorsunuz. 
+
+⚠️ Şahıs şirketinde yazabileceğiniz giderler konusunda Mali Müşavir'e danışmakta fayda var. İşiniz ile alakalı olmayan giderlerinizi şirket gideri olarak gösteremiyorsunuz. Aşağıdaki tabloda kullanılan örnek gideri tüm yaşam masraflarınız olarak düşünmeyin, sadece işiniz ile alakalı giderleriniz olarak düşünün. Gerçek gideriniz, şirket giderinizden fazla olacak.
+
+⚠️ Aşağıdaki tablolarda Gelir ve Gider değerleri birden fazla satırda tekrar ediyor, bunun asıl amacı hesaplama sürecinin aşamalarını göstermek, ödenecek vergi satırında göreceğiniz rakamlar o dilim için olan değerleri gösteriyor. Toplam ödenecek vergi en aşağıda yazıyor olacak.
+
+**Gelir Vergisi Dilimleri + 50% Yazılım İhracatı İstisnası + 75.000 TL Genç Girişimci**
+
+Dilimler | Minimum Değer | Maksimum Değer | Vergi Oranı (%) | Gelir | Gider | Vergi Matrahı | - Yazılım İhracatı | - Genç Girişimci | Ödenecek Vergi
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1\. Dilim | 0 TL | 24,000 TL | 15 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL | 0 TL
+2\. Dilim | 24,000.01 TL | 53,000 TL | 20 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL | 0 TL
+3\. Dilim | 53,000.01 TL | 190,000 TL | 27 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL | 0 TL
+4\. Dilim | 190,000.01 TL | 650,000 TL | 35 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL | 0 TL
+5\. Dilim | 650,000.01 TL | - | 40 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL | 0 TL
+**Toplam** | | | | | | | | | **0 TL**|
+
+
+\
+💡 Aynı koşullarda fakat genç girişimci desteğinden yararlanmadığınızı varsayalım:
+
+**Gelir Vergisi Dilimleri + 50% Yazılım İhracatı İstisnası**
+Dilimler | Minimum Değer | Maksimum Değer | Vergi Oranı (%) | Gelir | Gider | Vergi Matrahı | - Yazılım İhracatı | Ödenecek Vergi
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1\. Dilim | 0 TL | 24,000 TL | 15 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 3,600 TL
+2\. Dilim | 24,000.01 TL | 53,000 TL | 20 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 5,800 TL
+3\. Dilim | 53,000.01 TL | 190,000 TL | 27 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 5,940 TL
+4\. Dilim | 190,000.01 TL | 650,000 TL | 35 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL
+5\. Dilim | 650,000.01 TL | - | 40 | 192,000 TL | 42,000 TL | 150,000 TL | 75,000 TL | 0 TL
+**Toplam** | | | | | | | | **15,340 TL**|
+
+\
+💡 Bu desteklerden yararlanmasaydınız ödeyeceğiniz vergi:
+
+**Gelir Vergisi Dilimleri**
+Dilimler | Minimum Değer | Maksimum Değer | Vergi Oranı (%) | Gelir | Gider | Vergi Matrahı | Ödenecek Vergi
+--- | --- | --- | --- | --- | --- | --- | ---
+1\. Dilim | 0 TL | 24,000 TL | 15 | 192,000 TL | 42,000 TL | 150,000 TL | 3,600 TL
+2\. Dilim | 24,000.01 TL | 53,000 TL | 20 | 192,000 TL | 42,000 TL | 150,000 TL | 5,800 TL
+3\. Dilim | 53,000.01 TL | 190,000 TL | 27 | 192,000 TL | 42,000 TL | 150,000 TL | 26,190 TL
+4\. Dilim | 190,000.01 TL | 650,000 TL | 35 | 192,000 TL | 42,000 TL | 150,000 TL | 0 TL
+5\. Dilim | 650,000.01 TL | - | 40 | 192,000 TL | 42,000 TL | 150,000 TL | 0 TL
+**Toplam** | | | | | | | **35,590 TL**|
+
+
+\
+Desteklerden yararlandığınızı varsayarak farklı rakamlarla bir örnek daha verelim:\
+💡 Aylık 30.000 TL kazanıyorsunuz ve 5.000 TL gideriniz var.
+
+**Gelir Vergisi Dilimleri + 50% Yazılım İhracatı İstisnası + 75.000 TL Genç Girişimci**
+
+Dilimler | Minimum Değer | Maksimum Değer | Vergi Oranı (%) | Gelir | Gider | Vergi Matrahı | - Yazılım İhracatı | - Genç Girişimci | Ödenecek Vergi
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1\. Dilim | 0 TL | 24,000 TL | 15 | 360,000 TL | 60,000 TL | 300,000 TL | 150,000 TL |75,000 TL | 3,600 TL
+2\. Dilim | 24,000.01 TL | 53,000 TL | 20 | 360,000 TL | 60,000 TL | 300,000 TL | 150,000 TL |75,000 TL | 5,800 TL
+3\. Dilim | 53,000.01 TL | 190,000 TL | 27 | 360,000 TL | 60,000 TL | 300,000 TL | 150,000 TL |75,000 TL | 5,940 TL
+4\. Dilim | 190,000.01 TL | 650,000 TL | 35 | 360,000 TL | 60,000 TL | 300,000 TL | 150,000 TL |75,000 TL | 0 TL
+5\. Dilim | 650,000.01 TL | - | 40 | 360,000 TL | 60,000 TL | 300,000 TL | 150,000 TL |75,000 TL | 0 TL
+**Toplam** | | | | | | | | | **15,340 TL**|
+
+### Damga Vergisi
+Vergi | Ödeme Sıklığı | Tutar | Yıllık Toplam 
+--- | --- | --- | ---
+KDV Beyannamesi Damga Vergisi | Her Ay | <center>64.10 TL</center> | <center>729.20 TL</center>
+Geçici Vergi Beyannamesi Damga Vergisi | 3 Ayda Bir | <center>152.22 TL</center> | <center>388.80 TL</center>
+Gelir Vergisi Beyannamesi Damga Vergisi | Yılda Bir | <center>152.22 TL</center> | <center>133.00 TL</center>
+Muhtasar Beyanname Damga Vergisi | 3 Ayda Bir |<center>0 TL</center> | <center>0 TL</center>
+**Toplam** | | | <center>**1,291 TL**</center>
+
+💡 Muhtasar beyanname damga vergisi, stopaj kesintisi olması halinde 64,1 TRY.
+Faaliyet adresinin veya kullanılan aracın kiralık olması durumunda ya da tarafına serbest meslek makbuzu kesilmesi halinde stopaj kesintisi oluyor.\
+Mukellef.co sanal ofis hizmeti için fatura düzenlediğinden stopaj yok.\
+Mukellef.co Mali Müşaviri, muhasebe hizmetine karşılık fatura düzenlediği için stopaj yok.
 
 ## Hangi muhasebe yazılımını kullanmalısın?
 Sadece freelancer platformları üzerinden çalışacaksan e-dönüşüm destekli yazılım yeterli ama yanlış kesılan faturanın düzeltilmesi ve gelen fatura takibinin olmaması gibi problemleri de yanında getiriyor.

@@ -59,7 +59,7 @@ Genç girişimci hepimizin aklını karıştıran bir konu. Daha önce Upworkten
 * Para TR ye geldiğinde değil, Upwork te işe başladığınız tarihte faturayı kesmelisiniz. Bu konu TR de işler faturayı kestiğin an vergiye tabiisin. Mesela Estonya da ise bankadan parayı çektiğin an vergiye tabii olursun.
 * Devlet seni denetler veya denetlemez, eğer olası bir incelemeden korunmak, sorumluluklarını yerine getirmek istiyorsan oyunu kuralına göre oynaman tavsiye ediliyor.
 * 29 yaş altı isen çok avantajlı teşvikler var. Sadece geçmiş kazançların olmadan temiz bir başlangıç yapıyorsan çok iyi, öteki türlü geçmiş evrak bildirmemekten sıkıntı oluyor.
-* 29 yaş üstü için ise şirket kurulum, Ssk, damga, stopaj, muhasebeci yıllık min 15.000TL-20.000TL masrafı var, bunu bil. SSK lı olarak bir yerde çalışıyorsan min 10.000TL daha az ödersin - Şu an sadece varlık barışı ile vergisiz para getirebilirsiniz. 2021 Haziran sonuna kadar geçerli. Bir ihtimal yıl sonuna doğru uzatılır.
+* 29 yaş üstü için ise şirket kurulum, Ssk, damga, stopaj, muhasebeci yıllık min 15.000TL-20.000TL masrafı var, bunu bil. SSK lı olarak bir yerde çalışıyorsan min 10.000TL daha az ödersin - Şu an sadece varlık barışı ile vergisiz para getirebilirsiniz. 2021 Aralık sonuna kadar geçerli.
 * Malum herkes ya kazandı ya kazanacak. Oyunu kuralına göre oynamak isteyenler geriye dönük evrakları toparlamalı ve temiz bir başlangıç yapmalı. Piyango size de çıkabilir veya çıkmayabilir, tercih sizin.
 Tesekkurler sevgili Burak!
 

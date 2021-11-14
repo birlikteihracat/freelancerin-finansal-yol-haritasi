@@ -157,8 +157,6 @@ Sanal ofise yaptığın harcamaların tamamını gider olarak gösterebiliyorsun
 ### Gelir Vergisi
 Gelir vergisi dilimlere göre farklı oranlarda hesaplanıyor. Hem ihracat istisnasından yararlanıp hem de genç girişimci olduğunuz zaman 150.000 TL kazancınıza (=gelir-gider) kadar ilk 3 yıl vergi ödemiyorsunuz. 
 
-Gelir vergisi dilimlere göre farklı oranlarda hesaplanıyor. Hem ihracat istisnasından yararlanıp hem de genç girişimci olduğunuz zaman 150.000 TL kazancınıza (=gelir-gider) kadar ilk 3 yıl vergi ödemiyorsunuz. 
-
 ⚠️ Şahıs şirketinde yazabileceğiniz giderler konusunda Mali Müşavir'e danışmakta fayda var. İşiniz ile alakalı olmayan giderlerinizi şirket gideri olarak gösteremiyorsunuz. Aşağıdaki tabloda kullanılan örnek gideri tüm yaşam masraflarınız olarak düşünmeyin, sadece işiniz ile alakalı giderleriniz olarak düşünün. Gerçek gideriniz, şirket giderinizden fazla olacak.
 
 ⚠️ Aşağıdaki tablolarda Gelir ve Gider değerleri birden fazla satırda tekrar ediyor, bunun asıl amacı hesaplama sürecinin aşamalarını göstermek, ödenecek vergi satırında göreceğiniz rakamlar o dilim için olan değerleri gösteriyor. Toplam ödenecek vergi en aşağıda yazıyor olacak.

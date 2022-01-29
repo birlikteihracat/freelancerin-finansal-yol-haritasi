@@ -1,3 +1,4 @@
+Upwork'e henuz baslamadiysan [buradaki](https://www.birlikteihracat.com/upwork-nedir-nasil-uye-olunur/) linkten baslayabilirsin.
 
 # Freelancerın Finansal Yol Haritası
 Upwork ve Fiverr üzerinden ihracat yapan Freelancer'ın şirketleşme, teşvikler, parasını en uygun şekilde ülkemize getirme gibi konularda sorularına cevap bulabileceği bir yol haritası. Daha önce [Freelancer Guide](https://freelancer.guide/)'ın bir parçası idi. Artık açık kaynak kodlu ve herkesin katkısına açık. İlk katkılar her zaman olduğu gibi [Birlikte İhracat](https://birlikteihracat.com/) topluluğu katkılarıyla başlamıştır.
